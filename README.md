@@ -56,8 +56,11 @@ The model predicts the species of an iris flower based on measurements of its pe
 - Best accuracy observed for **K = 3 to 5**
 - Confusion matrix shows the model predicts almost all samples correctly
 
+ ---
 **Accuracy vs K Plot:**
-(Insert plot screenshot here)
+![1000019237](https://github.com/user-attachments/assets/ebd647d2-0875-40a2-8318-10dbc7b98898)
+
+
 
 ---
 
